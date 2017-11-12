@@ -1,5 +1,5 @@
 # HTPdata
-HTP data: additional online data sets used in my PhD thesis
+HTP data: additional online data sets used in my [PhD thesis](http://digital.bibliothek.uni-halle.de/id/2565369)
 
 *  Data Set 1. High-throughput phenotyping data in barley.
 *  Data Set 2. Growth modeling of control plants in barley.
